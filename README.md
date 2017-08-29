@@ -51,7 +51,7 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 - [ ] `SpaceBox.java`
 - [ ] `Quiz.java` **(HW2)**
 - [ ] `LeapYear.java`
-- [ ] `FizzBuzz.java` (Speed Code)
+- [ ] `FizzBuzz.java`
 
 _*Update: Java tutoring is offered at the Math & Computer Science Learning Center (Gillet 222)_
 
