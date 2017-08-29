@@ -1,5 +1,9 @@
 # CMP 167: Programming Methods I #
 
+![Lehman College][logo]
+
+[logo]: https://github.com/sonnynomnom/CMP-167-Programming-Methods-I/blob/master/lehmanlogo.png "Lehman College"
+
 **Instructor:** Songqiao Li (songqiao.li@lehman.cuny.edu)  
   
 **Session 1:** 11:00 am - 12:40 pm (MoWe)  
@@ -8,10 +12,6 @@
   
 **TA:** Jocelyn Mercado (jocelyn.mercado@lc.cuny.edu)  
 **TA:** Granit Dedushi (granit.dedushi@lc.cuny.edu)  
-
-![Lehman College][logo]
-
-[logo]: https://github.com/sonnynomnom/CMP-167-Programming-Methods-I/blob/master/lehmanlogo.png "Lehman College"  
 
 ## Course Description ##
 
@@ -27,22 +27,22 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 
 ## Piazza ##
 
-[piazza.com/lehman/fall2017/cmp167](http://piazza.com/lehman/fall2017/cmp167)  
+[www.piazza.com/lehman/fall2017/cmp167](http://piazza.com/lehman/fall2017/cmp167)  
 
 ## Grading ##
 
-* Homework(6)    30%
-* Quiz (2)    10%
-* Midterm    20%
-* Project    20%
-* Final Exam    20%
+* Homework (6) - 30%
+* Quiz (2) ----- 10%
+* Midterm ------ 20%
+* Project ------ 20%
+* Final Exam --- 20%
 
 ## Programs ## 
 
--[x] `HelloWorld.java`  
--[x] `Pattern.java`  
--[x] `Initials.java`  
--[ ] `Temp.java`
+- [x] `HelloWorld.java`  
+- [x] `Pattern.java`  
+- [x] `Initials.java`  
+- [ ] `Temp.java`
 
 _*Update: Java tutoring is offered at the Math & Computer Science Learning Center (Gillet 222)_
 
