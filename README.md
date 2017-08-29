@@ -1,10 +1,8 @@
 # CMP 167: Programming Methods I
 
-![alt text][logo]
+![Lehman College][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-Lehman College
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Lehman College"
 
 **Instructor:** Songqiao Li (songqiao.li@lehman.cuny.edu)  
   
@@ -15,6 +13,13 @@ Lehman College
 **TA:** Jocelyan Mercado (jocelyn.mercado@lc.cuny.edu)  
 **TA:** Granit Dedushi (granit.dedushi@lc.cuny.edu)  
 
-###Course Description
+### Course Description
 Structured computer programming using a modern high-level programming language. Includes console I/O, data types, variables, control structures, arrays, function definitions and calls, parameter passing, functional decomposition, and an introduction to objects. Debugging techniques.
 
+
+1. `HelloWorld.java`  
+2. `Pattern.java`  
+3. `Initials.java`  
+
+## License
+Lehman College © [Sonny Li] (https://instagram.com/sonnynomnom)
