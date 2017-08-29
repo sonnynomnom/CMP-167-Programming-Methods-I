@@ -31,11 +31,11 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 
 ## Grading ##
 
-* Homework (6) - 30%
-* Quiz (2) ------- 10%
-* Midterm ------- 20%
-* Project -------- 20%
-* Final Exam ---- 20%
+* Homework (6) _30%_
+* Quiz (2) _10%_
+* Midterm _20%_
+* Project _20%_
+* Final Exam _20%_
 
 ## Programs ## 
 
