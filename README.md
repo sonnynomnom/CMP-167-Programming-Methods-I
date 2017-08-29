@@ -1,9 +1,5 @@
 # CMP 167: Programming Methods I
 
-![Lehman College][logo]
-
-[logo]: https://github.com/sonnynomnom/CMP-167-Programming-Methods-I/blob/master/lehmanlogo.png "Lehman College"
-
 **Instructor:** Songqiao Li (songqiao.li@lehman.cuny.edu)  
   
 **Session 1:** 11:00 am - 12:40 pm (MoWe)  
@@ -24,4 +20,8 @@ Structured computer programming using a modern high-level programming language. 
 3. `Initials.java`  
 
 ## License
-Lehman College © [Sonny Li](https://instagram.com/sonnynomnom)
+© [Sonny Li](https://instagram.com/sonnynomnom)  
+
+![Lehman College][logo]
+
+[logo]: https://github.com/sonnynomnom/CMP-167-Programming-Methods-I/blob/master/logo.jpg "Lehman College"
