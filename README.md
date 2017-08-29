@@ -10,8 +10,23 @@
 **TA:** Granit Dedushi (granit.dedushi@lc.cuny.edu)  
 
 ## Course Description
+
 Structured computer programming using a modern high-level programming language. Includes console I/O, data types, variables, control structures, arrays, function definitions and calls, parameter passing, functional decomposition, and an introduction to objects. Debugging techniques.
 
+## Textbook: 
+
+[Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkjava6/thinkjava.pdf) (Allen B. Downey & Chris Mayfield)
+
+## Piazza: 
+[piazza.com/lehman/fall2017/cmp167](http://piazza.com/lehman/fall2017/cmp167)  
+
+## Grading:
+
+* Homework(6)       30%
+* Quiz (2)          10%
+* Midterm           20%
+* Project           20%
+* Final Exam        20%
 
 ## Programs  
 
@@ -19,9 +34,10 @@ Structured computer programming using a modern high-level programming language. 
 2. `Pattern.java`  
 3. `Initials.java`  
 
+_Update: Java tutoring is offered at the Math & Computer Science Learning Center (Gillet 222)_
+
 ## License
-© [Sonny Li](https://instagram.com/sonnynomnom)  
+Lehman College © [Sonny Li](https://instagram.com/sonnynomnom)  
 
 ![Lehman College][logo]
-
-[logo]: https://github.com/sonnynomnom/CMP-167-Programming-Methods-I/blob/master/logo.jpg "Lehman College"
+[logo]: https://github.com/sonnynomnom/CMP-167-Programming-Methods-I/blob/master/lehmanlogo.png "Lehman College"
