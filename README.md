@@ -6,8 +6,8 @@
 
 **Instructor:** Songqiao Li (songqiao.li@lehman.cuny.edu)  
   
-**Session 1:** 11:00 am - 12:40 pm (MoWe)  
-**Session 2:** 1:00 pm - 2:40 pm (TuTh)  
+**Section 1:** 11:00 am - 12:40 pm (MoWe)  
+**Section 2:** 1:00 pm - 2:40 pm (TuTh)  
 **Room:** Gillet 219  
   
 **TA:** Jocelyn Mercado (jocelyn.mercado@lc.cuny.edu)  
@@ -31,11 +31,11 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 
 ## Grading ##
 
-* Homework (6) _30%_
-* Quiz (2) _10%_
-* Midterm _20%_
-* Project _20%_
-* Final Exam _20%_
+* Homework (6)
+* Quiz (2)
+* Midterm
+* Project
+* Final Exam
 
 ## Programs ## 
 
@@ -44,12 +44,12 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 - [x] `Initials.java`  
 - [ ] `Temperature.java`
 - [ ] `BMI.java`
-- [ ] `Quadratic.java` (Speed Code)
-- [ ] `Currency.java` (HW1)
+- [ ] `Quadratic.java`
+- [ ] `Currency.java` **(HW1)**
 
 - [ ] `FlipCoin.java`
 - [ ] `SpaceBox.java`
-- [ ] `Quiz.java` (HW2)
+- [ ] `Quiz.java` **(HW2)**
 - [ ] `LeapYear.java`
 - [ ] `FizzBuzz.java` (Speed Code)
 
