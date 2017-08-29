@@ -42,7 +42,16 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 - [x] `HelloWorld.java`  
 - [x] `Pattern.java`  
 - [x] `Initials.java`  
-- [ ] `Temp.java`
+- [ ] `Temperature.java`
+- [ ] `BMI.java`
+- [ ] `Quadratic.java` (Speed Code)
+- [ ] `Currency.java` (HW1)
+
+- [ ] `FlipCoin.java`
+- [ ] `SpaceBox.java`
+- [ ] `Quiz.java` (HW2)
+- [ ] `LeapYear.java`
+- [ ] `FizzBuzz.java` (Speed Code)
 
 _*Update: Java tutoring is offered at the Math & Computer Science Learning Center (Gillet 222)_
 
