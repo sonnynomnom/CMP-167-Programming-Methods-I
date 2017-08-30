@@ -1,6 +1,6 @@
-//Granit Dedushi
-//CMP167
-//BWT
+// Granit Dedushi
+// CMP 167
+// BWT
 
 import java.util.Scanner;	
 import java.util.Arrays;
@@ -12,55 +12,66 @@ public class BWT
 	{
 		
 		Scanner in = new Scanner(System.in);
-		System.out.println("Encrypt(Press 1) or Decrypt(Press 2) ");
+		
+        System.out.println("Encrypt (Press 1) or Decrypt (Press 2) ");
 		int startTest = in.nextInt();
 		
-		in.nextLine();   //this is to offset empty entry when pulling next input	
-	
-		//*********************START OF ENCRYPTION CODE**************************************	
-		if (startTest == 1) 
+		in.nextLine();      // this is to offset empty entry when pulling next input
+        
+		//********************* START OF ENCRYPTION CODE **************************************
+		
+        if (startTest == 1)
 		{
+            
 			System.out.println("Enter something you would like to encrypt: ");
 			String inString = in.nextLine();
 			System.out.println("Hello");
 
-			//creating a size value to use in array. Size will be the amount of characters in the original input
+			// creating a size value to use in array
+            // SIZE will be the amount of characters in the original input
 			final int SIZE = inString.length();
 			
 			// creates an array of strings, for every letter in input, there is a row in array
 			String[] rotations = new String[SIZE];
-			//This is to take result from lastChars
+            
+			// this is to take result from lastChars
 			String result = "";
 
-			//generate the transfromation process and print first stage of transform
+			// generate the transfromation process and print first stage of transform
 			genRotations(inString, rotations);
+            
 			System.out.println("Encryption process initializing:\n ");
 			printStringArray(rotations, SIZE);
 			
-			//sorts the array of strings lexicographically and print the sorted array
+			// sorts the array of strings lexicographically and print the sorted array
 			Arrays.sort(rotations);
-			System.out.println("Initializing Mixer:\n");
+			
+            System.out.println("Initializing Mixer:\n");
 			printStringArray(rotations, SIZE);
 			
-			//Take last character of each sorted string to get the final transformed string
+			// take last character of each sorted string to get the final transformed string
 			result = lastChars(rotations, SIZE);
-			System.out.println("COPY DOWN EVERYTHING THAT IS IMMEDIATELY AFTER AND " +
+			
+            System.out.println("COPY DOWN EVERYTHING THAT IS IMMEDIATELY AFTER AND " +
 			"BEFORE ARROWS (INCLUDING SPACES) \nDO NOT LOSE THE STRING OR KEY OR YOU WONT BE ABLE TO DECODE!");
 			System.out.println("-----------------------------------------------------------------------------");
 			System.out.println("YOUR FINAL STRING IS:----->" + result + "<-----");			
 			//getting the key to original input
 			findKey(inString, rotations);
-			}
+        
+        }
 
-		//***********************START OF DECRYPTION CODE************************************
+		//*********************** START OF DECRYPTION CODE ************************************
+        
 		else if (startTest == 2) 
 		{
 			System.out.println("Enter encrypted string: ");
 			String encString = in.nextLine();
 			System.out.println("Enter key value: ");
 			int encKey = in.nextInt();
-			//Input Validation, index key must be equal to or greater than 0
-			while(encKey < 0) 
+            
+			// Input Validation, index key must be equal to or greater than 0
+			while (encKey < 0)
 			{
 				System.out.println("Your index value must be positive, Enter Index Again.");
 				encKey = in.nextInt();
@@ -68,16 +79,16 @@ public class BWT
 			
 			final int SIZE = encString.length();
 			
-			//creates a new array of strings same size as encString
+			// creates a new array of strings same size as encString
 			String[] revRotations = new String[SIZE];
 			String result;
 			
-			//placeholder to remove null from decrypted string
-			//this will make the sorted array into list which I will then print
+			// placeholder to remove null from decrypted string
+			// this will make the sorted array into list which I will then print
 			List<String> remNull;
 			
-			//Runs once for each stage
-			for(int cycles = 0; cycles < encString.length(); cycles++) 
+			// Runs once for each stage
+			for (int cycles = 0; cycles < encString.length(); cycles++)
 			{
 				moveFront(encString, revRotations);
 				Arrays.sort(revRotations);
@@ -95,7 +106,7 @@ public class BWT
 			
 			System.out.println("DECRYPTION COMPLETE! \n \nCHECK RESULTS BELOW");
 			System.out.println("| | | | | | | | | | \nV V V V V V V V V V");
-			//converting to list and then printing a certain item from list
+			// converting to list and then printing a certain item from list
 			List<String> decrypt = Arrays.asList(revRotations);
 			String temp = decrypt.get(encKey);
 			System.out.println("-----------------------------------------------------------------------------");
@@ -109,6 +120,7 @@ public class BWT
 			System.out.println("Start me up again when you are ready to encrypt or decrypt.");
 		}
 	}
+    
 	//***************START OF ENCRYPTION METHODS***************
 
 	/*Move first letter of previous string to end. Do this i(length of word) times.		
@@ -123,6 +135,7 @@ public class BWT
 			s[i] = s[i-1].substring(1) + s[i-1].charAt(0);
 		}
 	}
+    
 	/*print the string array to see transformation
 	@param - s is string array that will be printed
 	@param - SIZE is the number of rows you would like array to be
@@ -136,6 +149,7 @@ public class BWT
 		}
 		System.out.println();
 	}
+    
 	/*find the row that matches to original input so we can decode
 	@param - s is the string you would like to find
 	@param - a is the string array to search through
@@ -156,6 +170,7 @@ public class BWT
 				}
 		}
 	}
+    
 	/*takes last character of each row in final sorted array and creates a word with them	
 	@param - s is string array to search through
 	@param - SIZE is the length of original string
@@ -170,6 +185,7 @@ public class BWT
 		}
 		return result;
 	}
+    
 	//***************START OF DECRYPTION METHODS***************
 	
 	/*inputs the column letter of encString as the corresponding row in array
