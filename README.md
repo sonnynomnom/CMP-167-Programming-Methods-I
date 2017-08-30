@@ -49,9 +49,12 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 - [ ] `Quadratic.java`
 
 - [ ] `FlipCoin.java`
+- [ ] `Old.java`
 - [ ] `SpaceBox.java`
-- [ ] `Switch.java`
 - [ ] `Quiz.java` **(HW2)**
+
+- [ ] `Switch.java`
+
 - [ ] `LeapYear.java`
 
 - [ ] `YoungMoney.java`
@@ -66,6 +69,8 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 - [ ] `Reverse.java`
 - [ ] `Armstrong.java`
 
+- [ ] `ComputingChange.java`
+
 - [ ] `StringDemo.java`
 
 - [ ] `BasicArray0.java`
@@ -75,6 +80,7 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 - [ ] `Telephone.java`
 
 - [ ] `Area.java`
+- [ ] `HighScore.java`
 
 _*Update: Java tutoring is offered at the Math & Computer Science Learning Center (Gillet 222)_
 
