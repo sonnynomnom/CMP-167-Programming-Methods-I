@@ -1,5 +1,5 @@
-// sonny li
-// cmp 167
+// Sonny Li
+// CMP 167: Programming Methods I
 
 import java.util.Scanner;
 

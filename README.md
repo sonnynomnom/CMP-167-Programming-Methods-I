@@ -12,6 +12,7 @@
   
 **TA:** Jocelyn Mercado (jocelyn.mercado@lc.cuny.edu)  
 **TA:** Granit Dedushi (granit.dedushi@lc.cuny.edu)  
+  
 
 ## Course Description ##
 
@@ -44,14 +45,36 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 - [x] `Initials.java`  
 - [ ] `Temperature.java`
 - [ ] `BMI.java`
-- [ ] `Quadratic.java`
 - [ ] `Currency.java` **(HW1)**
+- [ ] `Quadratic.java`
 
 - [ ] `FlipCoin.java`
 - [ ] `SpaceBox.java`
+- [ ] `Switch.java`
 - [ ] `Quiz.java` **(HW2)**
 - [ ] `LeapYear.java`
+
+- [ ] `YoungMoney.java`
+- [ ] `EnterPIN.java`
 - [ ] `FizzBuzz.java`
+- [ ] `Guessing.java`
+
+- [ ] `Stars.java`
+- [ ] `PatternOne.java`
+- [ ] `PatternTwo.java`
+
+- [ ] `Reverse.java`
+- [ ] `Armstrong.java`
+
+- [ ] `StringDemo.java`
+
+- [ ] `BasicArray0.java`
+- [ ] `BasicArray1.java`
+
+- [ ] `LocatingLargest.java`
+- [ ] `Telephone.java`
+
+- [ ] `Area.java`
 
 _*Update: Java tutoring is offered at the Math & Computer Science Learning Center (Gillet 222)_
 
