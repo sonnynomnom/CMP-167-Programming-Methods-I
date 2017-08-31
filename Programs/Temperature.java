@@ -9,7 +9,7 @@ public class Temperature {
 
         Scanner in = new Scanner(System.in);
 
-        double celsius, fahrenheit;
+        double fahrenheit, celsius;
 
         System.out.print("Enter a degree in Celsius: ");
         celsius = in.nextDouble();

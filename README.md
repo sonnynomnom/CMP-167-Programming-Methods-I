@@ -43,8 +43,8 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 - [x] `HelloWorld.java`  
 - [x] `Pattern.java`  
 - [x] `Initials.java`  
-- [ ] `Temperature.java`
-- [ ] `BMI.java`
+- [x] `Temperature.java`
+- [x] `BMI.java`
 - [ ] `Currency.java` **(HW1)**
 - [ ] `Quadratic.java`
 
