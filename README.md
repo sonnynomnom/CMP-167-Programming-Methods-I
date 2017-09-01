@@ -17,7 +17,7 @@
 
 ## Course Description ##
 
-Structured computer programming using a modern high-level programming language. Includes console I/O, data types, variables, control structures, arrays, function definitions and calls, parameter passing, functional decomposition, and an introduction to objects. Debugging techniques.
+Structured computer programming using a modern high-level programming language: Java! Includes console I/O, data types, variables, control structures, arrays, function definitions and calls, parameter passing, functional decomposition, and an introduction to objects. Debugging techniques.
 
 ## Prerequisite ##
 
