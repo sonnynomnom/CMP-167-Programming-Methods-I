@@ -1,4 +1,4 @@
-# CMP 167: Programming Methods I #
+﻿# CMP 167: Programming Methods I #
 
 ![Lehman College][logo]
 
@@ -11,7 +11,7 @@
 **Room:** Gillet 219  
   
 **TA:** Jocelyn Mercado (jocelyn.mercado@lc.cuny.edu)  
-**TA:** Granit Dedushi (granit.dedushi@lc.cuny.edu)  
+**TA:** Granit Dedushi (granit.dedushi@lc.cuny.edu)    
   
 
 ## Course Description ##
