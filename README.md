@@ -15,7 +15,6 @@
 <br />
 <br />
 
-
 ## Course Description ##
 
 Structured computer programming using a modern high-level programming language. Includes console I/O, data types, variables, control structures, arrays, function definitions and calls, parameter passing, functional decomposition, and an introduction to objects. Debugging techniques.
@@ -85,6 +84,8 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 - [ ] `HighScore.java`
 
 _*Update: Java tutoring is offered at the Math & Computer Science Learning Center (Gillet 222)_
+<br />
+<br />
 
 ## License
 Lehman College © [Sonny Li](https://instagram.com/sonnynomnom)
