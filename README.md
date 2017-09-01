@@ -12,6 +12,7 @@
   
 **TA:** Jocelyn Mercado (jocelyn.mercado@lc.cuny.edu)  
 **TA:** Granit Dedushi (granit.dedushi@lc.cuny.edu)    <br />
+  <br />
   
 
 ## Course Description ##
