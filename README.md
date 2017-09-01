@@ -19,19 +19,19 @@
 
 Structured computer programming using a modern high-level programming language: Java! Includes console I/O, data types, variables, control structures, arrays, function definitions and calls, parameter passing, functional decomposition, and an introduction to objects. Debugging techniques.
 
-## Prerequisite ##
+### Prerequisite ###
 
 MAT 104 or placement by the Department of Mathematics and Computer Science.
 
-## Textbook ##
+### Textbook ###
 
 [Think Java: How to Think Like a Computer Scientist](http://greenteapress.com/thinkjava6/thinkjava.pdf) (Allen B. Downey & Chris Mayfield)
 
-## Piazza ##
+### Piazza ###
 
 [www.piazza.com/lehman/fall2017/cmp167](http://piazza.com/lehman/fall2017/cmp167)  
 
-## Grading ##
+### Grading ###
 
 * Homework (6)
 * Quiz (2)
