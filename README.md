@@ -39,7 +39,7 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 * Project
 * Final Exam
 
-## Programs ## 
+### Programs ###
 
 - [x] `HelloWorld.java`  
 - [x] `Pattern.java`  
