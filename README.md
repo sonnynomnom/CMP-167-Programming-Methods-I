@@ -43,18 +43,18 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 
 - [x] `HelloWorld.java`  
 - [x] `Pattern.java`  
-- [x] `Initials.java`  
+- [x] `Initials.java`
+
 - [x] `Temperature.java`
 - [x] `BMI.java`
+- [x] `Quadratic.java`
 - [ ] `Currency.java` **(HW1)**
-- [ ] `Quadratic.java`
 
 - [ ] `FlipCoin.java`
 - [ ] `Old.java`
 - [ ] `SpaceBox.java`
-- [ ] `Quiz.java` **(HW2)**
-
 - [ ] `Switch.java`
+- [ ] `Quiz.java` **(HW2)**
 
 - [ ] `LeapYear.java`
 
@@ -88,4 +88,4 @@ _*Update: Java tutoring is offered at the Math & Computer Science Learning Cente
 <br />
 
 ## License
-Lehman College © [Sonny Li](https://instagram.com/sonnynomnom)
+Lehman College © [Songqiao Li](https://instagram.com/sonnynomnom)
