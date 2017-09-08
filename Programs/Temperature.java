@@ -4,19 +4,20 @@
 import java.util.Scanner;
 
 public class Temperature {
-
+    
     public static void main(String[] args) {
-
+        
+        double tempf;
+        double tempc;
+        
         Scanner in = new Scanner(System.in);
-
-        double fahrenheit, celsius;
-
-        System.out.print("Enter a degree in Celsius: ");
-        celsius = in.nextDouble();
-
-        fahrenheit = celsius * 1.8 + 32.0;
-
-        System.out.println("The degree in Fahrenheit is " + fahrenheit);
-
+        
+        System.out.print("Enter temp in Fahrenheit: ");
+        tempf = in.nextDouble();
+        
+        tempc = (tempf - 32) * 5 / 9;
+        
+        System.out.printf("The current temp is %.1f degrees Celsius.\n", tempc);
+        
     }
 }
