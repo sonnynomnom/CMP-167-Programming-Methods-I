@@ -55,7 +55,7 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 
 - [x] `FlipCoin.java`
 - [x] `pH.java`
-- [ ] `SpaceBox.java`
+- [ ] `SpaceBoxr.java`
 - [ ] `Quiz.java` **(HW2)**
 
 - [ ] `Switch.java`
