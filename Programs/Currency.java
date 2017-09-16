@@ -23,7 +23,7 @@ public class Currency {
 
         total = p * 0.0544 + q * 0.1305 + c * 0.1144;
 
-        System.out.println("US Dollars = " + total);
+        System.out.printf("US Dollars = $%.2f\n", total);
 
     }
 

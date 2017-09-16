@@ -28,5 +28,5 @@ public class Quadratic {
         System.out.println("Root 2 is " + root2);
 
     }
-    
+
 }

@@ -14,4 +14,5 @@ public class Initials {
         System.out.println(" SSS   LLLLL ");
 
     }
+    
 }

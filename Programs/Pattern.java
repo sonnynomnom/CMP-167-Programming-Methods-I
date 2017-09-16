@@ -11,4 +11,5 @@ public class Pattern {
         System.out.println("7 8 9 10");
 
     }
+    
 }
