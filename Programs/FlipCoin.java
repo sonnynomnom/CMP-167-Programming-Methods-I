@@ -1,5 +1,5 @@
-// sonny li
-// cmp 167
+// Sonny Li
+// CMP 167: Programming Methods I
 
 public class FlipCoin {
 
@@ -15,4 +15,5 @@ public class FlipCoin {
         }
 
     }
+    
 }

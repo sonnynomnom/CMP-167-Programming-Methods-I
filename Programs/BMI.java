@@ -22,4 +22,5 @@ public class BMI {
         System.out.printf("Your BMI is %.1f\n", bmi);
 
     }
+    
 }
