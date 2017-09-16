@@ -2,7 +2,7 @@
 
 ![Lehman College][logo]
 
-[logo]: https://github.com/sonnynomnom/CMP-167-Programming-Methods-I/blob/master/logo2.jpg "Lehman College"
+[logo]: https://github.com/sonnynomnom/CMP-167-Programming-Methods-I/blob/master/logo.png "Lehman College 2017"
 
 **Instructor:** Songqiao Li (songqiao.li@lehman.cuny.edu)  
   
