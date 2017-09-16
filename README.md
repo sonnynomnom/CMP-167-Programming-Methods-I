@@ -29,7 +29,10 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 
 ### Piazza ###
 
-[www.piazza.com/lehman/fall2017/cmp167](http://piazza.com/lehman/fall2017/cmp167)  
+[www.piazza.com/lehman/fall2017/cmp167](http://piazza.com/lehman/fall2017/cmp167) 
+
+### Repl.it ###
+[https://www.repl.it/data/classrooms/share/fbb735156bb6f1cf4280d16c0b89161e](https://repl.it/data/classrooms/share/fbb735156bb6f1cf4280d16c0b89161e) 
 
 ### Grading ###
 
@@ -48,11 +51,11 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 - [x] `Temperature.java`
 - [x] `BMI.java`
 - [x] `Quadratic.java`
-- [ ] `Currency.java` **(HW1)**
+- [x] `Currency.java` **(HW1)**
 
-- [ ] `FlipCoin.java`
-- [ ] `Old.java`
-- [ ] `SpaceBox.java`
+- [x] `FlipCoin.java`
+- [x] `Old.java`
+- [x] `SpaceBox.java`
 - [ ] `Switch.java`
 - [ ] `Quiz.java` **(HW2)**
 
