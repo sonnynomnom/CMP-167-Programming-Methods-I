@@ -87,8 +87,10 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 - [ ] `HighScore.java`
 
 _*Update: Java tutoring is offered at the Math & Computer Science Learning Center (Gillet 222)_
-<br />
-<br />
+
+### Final Projects ###
+
+* [Burrows-Wheeler Transform](https://www.youtube.com/watch?v=h-J2_NIDvLw) - Granit Dedushi (Fall 2016)
 
 ## License
 Lehman College © [Songqiao Li](https://instagram.com/sonnynomnom)
