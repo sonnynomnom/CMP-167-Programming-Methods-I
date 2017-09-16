@@ -24,27 +24,27 @@ public class SpaceBoxer {
 
         if (x == 1)
         {
-          weight = weight * 0.78;
+            weight = weight * 0.78;
         }
         else if (x == 2)
         {
-          weight = weight * 0.39;
+            weight = weight * 0.39;
         }
         else if (x == 3)
         {
-          weight = weight * 2.65;
+            weight = weight * 2.65;
         }
         else if (x == 4)
         {
-          weight = weight * 1.17;
+            weight = weight * 1.17;
         }
         else if (x == 5)
         {
-          weight = weight * 1.05;
+            weight = weight * 1.05;
         }
         else if (x == 6)
         {
-          weight = weight * 1.23;
+            weight = weight * 1.23;
         }
 
         System.out.printf("\nYou weight would be %.2f pounds on that planet.\n", weight);
