@@ -12,8 +12,8 @@
   
 **TA:** Jocelyn Mercado (jocelyn.mercado@lc.cuny.edu)  
 **TA:** Granit Dedushi (granit.dedushi@lc.cuny.edu)
-<br />
-<br />
+<br>
+<br>
 
 ## Course Description ##
 
@@ -86,11 +86,13 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 - [ ] `Area.java`
 - [ ] `HighScore.java`
 
-_*Update: Java tutoring is offered at the Math & Computer Science Learning Center (Gillet 222)_
+_*Update: Java tutoring is offered at the Math & Computer Science Learning Center (Gillet 222)_  
+<br>
 
 ### Final Projects ###
 
 * [Burrows-Wheeler Transform](https://www.youtube.com/watch?v=h-J2_NIDvLw) - Granit Dedushi (Fall 2016)
+<br>
 
 ## License
 Lehman College © [Songqiao Li](https://instagram.com/sonnynomnom)
