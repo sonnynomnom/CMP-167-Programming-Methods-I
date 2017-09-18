@@ -94,13 +94,8 @@ _*Update: Java tutoring is offered at the Math & Computer Science Learning Cente
 * [Burrows-Wheeler Transform](https://www.youtube.com/watch?v=h-J2_NIDvLw) - Granit Dedushi (Fall 2016)
 <br>
 
-![Granit Dedushi][granit]
-
-[granit]: https://github.com/sonnynomnom/CMP-167-Programming-Methods-I/blob/master/granit.jpg "Granit Dedushi"
-
-<img src="https://github.com/sonnynomnom/CMP-167-Programming-Methods-I/blob/master/granit.jpg" alt="Drawing" style="width: 10%; height:10%;"/>
+<img src="https://github.com/sonnynomnom/CMP-167-Programming-Methods-I/blob/master/granit.jpg" alt="Drawing" width="400" height="530" />
 <br>
-
 
 ## License
 Lehman College © [Songqiao Li](https://instagram.com/sonnynomnom)
