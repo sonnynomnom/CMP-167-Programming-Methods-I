@@ -89,18 +89,19 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 _*Update: Java tutoring is offered at the Math & Computer Science Learning Center (Gillet 222)_  
 <br>
 
+### Hackathons ###
+
+* [NSBE-SHPE CodeJam](https://credly.com/credit/13866597) - March 25, 2017
+* [NS Hackathon](http://nshacks.nslehman.com) - November 10-11, 2017
+
+<br>
+
 ### Final Projects ###
 
 * [Burrows-Wheeler Transform](https://www.youtube.com/watch?v=h-J2_NIDvLw) - Granit Dedushi (Fall 2016)
 
 <img src="https://github.com/sonnynomnom/CMP-167-Programming-Methods-I/blob/master/granit.jpg" alt="Drawing" width="400" height="530" />
 
-### Hackathons ###
-
-* [NSBE-SHPE 2017 CodeJam](https://credly.com/credit/13866597) Spring 2017
-* [NS Hackathon](http://nshacks.nslehman.com) Fall 2017
-
-<br>
 
 ## License
 Lehman College © [Songqiao Li](https://instagram.com/sonnynomnom)
