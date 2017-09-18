@@ -98,6 +98,7 @@ _*Update: Java tutoring is offered at the Math & Computer Science Learning Cente
 
 [granit]: https://github.com/sonnynomnom/CMP-167-Programming-Methods-I/blob/master/granit.jpg "Granit Dedushi"
 
+<img src="https://github.com/sonnynomnom/CMP-167-Programming-Methods-I/blob/master/granit.jpg" alt="Drawing" style="width: 10%; height:10%;"/>
 <br>
 
 
