@@ -89,11 +89,10 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 _*Update: Java tutoring is offered at the Math & Computer Science Learning Center (Gillet 222)_  
 <br>
 
-### Hackathons ###
+### Events ###
 
 * [NSBE-SHPE CodeJam](https://credly.com/credit/13866597) - March 25, 2017
 * [NS Hackathon](http://nshacks.nslehman.com) - November 10-11, 2017
-<br>
 
 ### Final Projects ###
 
