@@ -92,9 +92,14 @@ _*Update: Java tutoring is offered at the Math & Computer Science Learning Cente
 ### Final Projects ###
 
 * [Burrows-Wheeler Transform](https://www.youtube.com/watch?v=h-J2_NIDvLw) - Granit Dedushi (Fall 2016)
-<br>
 
 <img src="https://github.com/sonnynomnom/CMP-167-Programming-Methods-I/blob/master/granit.jpg" alt="Drawing" width="400" height="530" />
+
+### Hackathons ###
+
+* [NSBE-SHPE 2017 CodeJam](https://credly.com/credit/13866597) Spring 2017
+* [NS Hackathon](http://nshacks.nslehman.com) Fall 2017
+
 <br>
 
 ## License
