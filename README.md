@@ -9,6 +9,8 @@
 **Section 1:** 11:00 am - 12:40 pm (MoWe)  
 **Section 2:** 1:00 pm - 2:40 pm (TuTh)  
 **Room:** Gillet 219  
+
+**Office Hours:** TBA (Gillet 303)  
   
 **TA:** Jocelyn Mercado (jocelyn.mercado@lc.cuny.edu)  
 **TA:** Granit Dedushi (granit.dedushi@lc.cuny.edu)
