@@ -93,10 +93,8 @@ _*Update: Java tutoring is offered at the Math & Computer Science Learning Cente
 
 ### Events ###
 
-* [NSBE-SHPE CodeJam](https://nslehman.com/codejam/) - March 25, 2017 ([Judged ᕙ(⇀‸↼‶)ᕗ](https://credly.com/credit/13866597))
+* [NSBE-SHPE CodeJam](https://nslehman.com/codejam/) - March 25, 2017 ([Judge! ಠ_ಠ](https://credly.com/credit/13866597))
 * [NS Hackathon](http://nshacks.nslehman.com) - November 10-11, 2017  
-
-_*REGISTER NOW!_
 <br>
 
 ### Final Projects ###
