@@ -58,15 +58,15 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 - [x] `FlipCoin.java`
 - [x] `pH.java`
 - [x] `SpaceBoxer.java`
-- [ ] `Quiz.java` **(HW2)**
+- [x] `Quiz.java` **(HW2)**
 
-- [ ] `Switch.java`
-- [ ] `LeapYear.java`
+- [ ] `Switch.java` 
+- [ ] `LeapYear.java` **(HW3)**
 
 - [ ] `YoungMoney.java`
 - [ ] `EnterPIN.java`
 - [ ] `FizzBuzz.java`
-- [ ] `Guessing.java`
+- [ ] `Guessing.java` **(HW4)**
 
 - [ ] `Stars.java`
 - [ ] `PatternOne.java`
@@ -96,6 +96,11 @@ _*Update: Java tutoring is offered at the Math & Computer Science Learning Cente
 * [NSBE-SHPE CodeJam](https://nslehman.com/codejam/) - March 25, 2017 ([Judge! ಠ_ಠ](https://credly.com/credit/13866597))
 * [NS Hackathon](http://nshacks.nslehman.com) - November 10-11, 2017  
 <br>
+
+### Mini Projects ###
+
+* Rock Paper Scissors (Big Bang Theory Ed.) - Jeffrey Matthew & Justin Acosta (Fall 2017)
+* Derp the Magic 8-Ball - Ginell Rosario & Alex Mayi (Fall 2017)
 
 ### Final Projects ###
 
