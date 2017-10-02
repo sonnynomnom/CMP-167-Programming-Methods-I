@@ -27,12 +27,16 @@ public class RockPaperScissorsLizardSpock {
 
         if (computer == 1)
             computer_choice = "Rock";
+       
         if (computer == 2)
             computer_choice = "Paper";
+       
         if (computer == 3)
             computer_choice = "Scissors";
+       
         if (computer == 4)
             computer_choice = "Lizard";
+       
         if (computer == 5)
             computer_choice = "Spock";
 
@@ -42,12 +46,16 @@ public class RockPaperScissorsLizardSpock {
 
             if (computer == 1)
                 System.out.println("You tied!");
+           
             if (computer == 2)
                 System.out.println("Paper has covered Rock. You lost!");
+           
             if (computer == 3)
                 System.out.println("Rock crushes Scissors. You won!");
+           
             if (computer == 4)
                 System.out.println("Rock crushes Lizard. You won!");
+           
             if (computer == 5)
                 System.out.println("Rock has been vaporized by Spock. You lost!");
 
@@ -57,12 +65,16 @@ public class RockPaperScissorsLizardSpock {
 
             if (computer == 1)
                 System.out.println("Paper has covered Rock. You won!");
+           
             if (computer == 2)
                 System.out.println("You tied!");
+           
             if (computer == 3)
                 System.out.println("Paper has been cut by Scissors. You lost!");
+           
             if (computer == 4)
                 System.out.println("Paper has been eaten by Lizard. You lost!");
+           
             if (computer == 5)
                 System.out.println("Paper has disproved Spock. You won!");
 
@@ -72,12 +84,16 @@ public class RockPaperScissorsLizardSpock {
 
             if (computer == 1)
                 System.out.println("Rock has crushed Scissors. You lost!");
+           
             if (computer == 2)
                 System.out.println("Scissors has cut Paper. You won!");
+           
             if (computer == 3)
                 System.out.println("You both tied!");
+           
             if (computer == 4)
                 System.out.println("Scissors has killed Lizard. You won!");
+           
             if (computer == 5)
                 System.out.println("Spock has smashed Scissors. You lost!");
 
@@ -87,12 +103,16 @@ public class RockPaperScissorsLizardSpock {
 
             if (computer == 1)
                 System.out.println("Rock has crushed Lizard. You lost!");
+           
             if (computer == 2)
                 System.out.println("Lizard has eaten Paper. You won!");
+           
             if (computer == 3)
                 System.out.println("Lizard has been cut by Scissors. You lost!");
+           
             if (computer == 4)
                 System.out.println("You have tied!");
+           
             if (computer == 5)
                 System.out.println("Lizard has poisoned Spock. You won!");
 
@@ -102,12 +122,16 @@ public class RockPaperScissorsLizardSpock {
 
             if (computer == 1)
                 System.out.println("Rock has been vaporized by Spock. You won!");
+           
             if (computer == 2)
                 System.out.println("Paper has disproved Spock. You lost!");
+           
             if (computer == 3)
                 System.out.println("Spock smashes Scissors. You won!");
+           
             if (computer == 4)
                 System.out.println("Lizard has poisoned Spock. You lost!");
+           
             if (computer == 5)
                 System.out.println("You tied!");
 
