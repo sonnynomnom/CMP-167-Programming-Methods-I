@@ -63,15 +63,17 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 - [ ] `Switch.java` 
 - [x] `LeapYear.java` **(HW3)**
 
+- [x] `EnterPIN.java`
+- [x] `Guess1.java`
+- [x] `Guess2.java`
 - [ ] `YoungMoney.java`
 - [ ] `TroubleMaker.java`
-- [x] `EnterPIN.java`
+- [ ] `Add.java`
 - [ ] `FizzBuzz.java`
-- [ ] `Guessing.java` **(HW4)**
 
 - [ ] `Stars.java`
-- [ ] `PatternOne.java`
-- [ ] `PatternTwo.java`
+- [ ] `Pattern1.java`
+- [ ] `Pattern2.java`
 
 - [ ] `Reverse.java`
 - [ ] `Armstrong.java`
