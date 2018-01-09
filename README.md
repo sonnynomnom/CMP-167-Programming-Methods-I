@@ -50,10 +50,10 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 - [x] [`Pattern.java`](Programs/Pattern.java)  
 - [x] [`Initials.java`](Programs/Initials.java)
 
-- [x] `Temperature.java`
-- [x] `BMI.java`
-- [x] `Quadratic.java`
-- [x] `Currency.java` **(HW1)**
+- [x] [`Temperature.java`](Programs/Temperature.java)
+- [x] [`BMI.java`](Programs/BMI.java)
+- [x] [`Quadratic.java`](Programs/Quadratic.java)
+- [x] [`Currency.java`](Programs/Currency.java) **(HW1)**
 
 - [x] `FlipCoin.java`
 - [x] `pH.java`
