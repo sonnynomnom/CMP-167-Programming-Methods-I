@@ -55,10 +55,10 @@ MAT 104 or placement by the Department of Mathematics and Computer Science.
 - [x] [`Quadratic.java`](Programs/Quadratic.java)
 - [x] [`Currency.java`](Programs/Currency.java) **(HW1)**
 
-- [x] `FlipCoin.java`
-- [x] `pH.java`
-- [x] `SpaceBoxer.java`
-- [x] `Quiz.java` **(HW2)**
+- [x] [`FlipCoin.java`](Programs/FlipCoin.java)
+- [x] [`pH.java`](Programs/pH.java)
+- [x] [`SpaceBoxer.java`](Programs/SpaceBoxer.java)
+- [x] [`Quiz.java`](Programs/Quiz.java) **(HW2)**
 
 - [ ] `Switch.java` 
 - [x] `LeapYear.java` **(HW3)**
