@@ -102,7 +102,7 @@ _*Update: Java tutoring is offered at the Math & Computer Science Learning Cente
 ### Mini Projects ###
 
 * [Rock Paper Scissors (Big Bang Theory)](Projects/RockPaperScissorsLizardSpock.java) - Jeffrey Matthew & Justin Acosta (Fall 2017)
-* Derp the Magic 8-Ball - Ginell Rosario & Alex Mayi (Fall 2017)
+* [Derp the Magic 8-Ball](Projects/Magic8Ball.java) - Ginell Rosario & Alex Mayi (Fall 2017)
 <br>
 
 ### Final Projects ###
