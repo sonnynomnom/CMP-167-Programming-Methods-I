@@ -4,7 +4,7 @@
 
 [logo]: https://github.com/sonnynomnom/CMP-167-Programming-Methods-I/blob/master/logo.png "Lehman College 2017"
 
-**Instructor:** Songqiao Li (songqiao.li@lehman.cuny.edu) <a href="http://www.ratemyprofessors.com/ShowRatings.jsp?tid=2173337"> <img src="https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/ratemyprofessors.png" alt="Rate My Professors"/></a>
+**Instructor:** Songqiao "Sonny" Li (songqiao.li@lehman.cuny.edu) <a href="http://www.ratemyprofessors.com/ShowRatings.jsp?tid=2173337"> <img src="https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/ratemyprofessors.png" alt="Rate My Professors"/></a>
   
 **Section 1:** 11:00 am - 12:40 pm (MoWe)  
 **Section 2:** 1:00 pm - 2:40 pm (TuTh)  
