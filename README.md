@@ -113,4 +113,4 @@ _*Update: Java tutoring is offered at the Math & Computer Science Learning Cente
 <img src="https://github.com/sonnynomnom/CMP-167-Programming-Methods-I/blob/master/granit.jpg" alt="Drawing" width="400" height="530" />
 
 ## License
-Lehman College © [Songqiao Li](https://instagram.com/sonnynomnom)
+Lehman College [Songqiao Li](https://instagram.com/sonnynomnom)
